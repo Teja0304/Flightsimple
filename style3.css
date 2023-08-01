@@ -36,6 +36,7 @@ footer nav ul li img{
 
 body{
 	background-image: url("image (3).jpg");
+	background-repeat: no-repeat;
 }
 
 .form-box{
