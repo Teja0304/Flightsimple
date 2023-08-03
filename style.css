@@ -37,6 +37,7 @@ footer nav ul li img{
 .formbox{
 	 margin-bottom: 100px;
 	width:25px;
+	background: rgba(255,255,255,0.5);
 }
 
 .formbox h4{
