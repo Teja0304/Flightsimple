@@ -36,15 +36,12 @@ footer nav ul li img{
 
 
 .formbox{
-	width:90%;
-	height:20%;
-	max-width:400PX;
 	position: absolute;
 	top: 40%;
 	left:34%;
 	background: rgba(255,255,255,0.5);
 	padding: 30px 30px 50px; 
-	margin-left: 0px;
+	
 }
 
 .formbox h4{
